@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4611376292967686815
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4611376292967686817}
+  - component: {fileID: -6116646857882445781}
+  m_Layer: 0
+  m_Name: Character Skin - Garret.C
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4611376292967686817
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4611376292967686815}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-6116646857882445781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4611376292967686815}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -876607638, guid: ca5c807ccdc02534d8784bf382b6aa44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  characterName: Garret.C
+  author: 
+  skinSprite: {fileID: 0}
+  disableColorChange: 0
+  data:
+  - ID: Garret_Canine_Dick
+    materials:
+    - {fileID: 2100000, guid: 2b4470f915e76fb45aba54eca3ac1856, type: 2}
+    advancedCharacterSkinningData:
+    - {fileID: 11400000, guid: 48ca4e510d66cca419c6be2e79f58f9a, type: 2}
+  - ID: Garret_Mane
+    materials:
+    - {fileID: 2100000, guid: 7703342ff1ff46641a78c5dad290b4a9, type: 2}
+    advancedCharacterSkinningData:
+    - {fileID: 11400000, guid: 40965ded499e5644196431adc97f8999, type: 2}
+  - ID: Garret_Maw
+    materials:
+    - {fileID: 2100000, guid: 3a6f1f7659346a24fbd50305baf42fda, type: 2}
+    advancedCharacterSkinningData:
+    - {fileID: 11400000, guid: 4c7a36b8c98e41e4f8d0a70c58a1a031, type: 2}
+  - ID: Garret_Eyes
+    materials:
+    - {fileID: 2100000, guid: 648f211119c3ea849aa00e11c6bba312, type: 2}
+    advancedCharacterSkinningData:
+    - {fileID: 11400000, guid: 67fc06aeea1ccb54f9d51a388f6d3e8a, type: 2}
+  - ID: Garret_Canine_Body
+    materials:
+    - {fileID: 2100000, guid: 7703342ff1ff46641a78c5dad290b4a9, type: 2}
+    advancedCharacterSkinningData:
+    - {fileID: 11400000, guid: 40965ded499e5644196431adc97f8999, type: 2}
