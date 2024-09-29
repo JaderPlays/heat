@@ -1,4 +1,4 @@
-<Title>Mods:</title>
+<title>Mods:</title>
 <h1>Installation:</h1>
 <ol>
   <li>Have <b>current version of Anthro Heat</b> installed and <b>working properly</b>.</li>
