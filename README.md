@@ -12,6 +12,7 @@
 <h2>Reskins:</h2>
 <h3>Garret:</h3>
 <p>* <b>Ultaimia Reifa Skin V1.0 for Milestones V0.6.5.2, V0.6.6.2</b> [Garret_JaderPlaysOC_1.0.zip](https://github.com/user-attachments/files/17109201/Garret_JaderPlaysOC_1.0.zip)</p>
+<p>* Reifa is an OC of mine from an upcoming visual novel I am working on called <i>Ultaimia</i>.</p>
 
 <h3>Emmy:</h3>
 <p>* <b>Spyro the Dragon Skin V1.0 for Milestones V0.6.5.2, V0.6.6.2</b> [Emmy_Spyro_V1.0.zip](https://github.com/user-attachments/files/17180082/Emmy_Spyro_V1.0.zip)</p>
