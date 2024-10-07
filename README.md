@@ -22,3 +22,10 @@
   <li><p><b>Spyro the Dragon Skin V1.0 for Milestones V0.6.5.2, V0.6.6.2</b> [Emmy_Spyro_V1.0.zip](https://github.com/user-attachments/files/17180082/Emmy_Spyro_V1.0.zip)</p></li>
   <img src="https://github.com/user-attachments/assets/506c888e-e349-413f-a623-cc5d58bb6e9c" alt="Emmy as Spyro the Dragon">
 </ul>
+
+<h3>Hera:</h3>
+<ul>
+  <li><p><b>Cynder the Dragon Skin V1.0 for Milestones V0.6.5.2, V0.6.6.2</b> [Hera_Cynder_V1.0.zip](https://github.com/user-attachments/files/17271512/Hera_Cynder_V1.0.zip)</p></li>
+  <img src="https://github.com/user-attachments/assets/c4d7f06a-c38f-43d8-93d2-b88b9304a95f" alt="Hera as Cynder the Dragon">
+</ul>
+
